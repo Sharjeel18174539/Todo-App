@@ -1,6 +1,7 @@
 # todoapp
-
 A new Flutter project.
+A To-Do App is a simple application that allows users to manage tasks effectively by creating, reading, updating, and deleting them. 
+
 
 ## Getting Started
 
